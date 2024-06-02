@@ -28,3 +28,11 @@
     "DFFlagDebugEnableInterpolationVisualizer": "True"
 }
 ```
+
+#### STOP ANIMATION
+```lua
+{
+    "DFIntReplicatorAnimationTrackLimitPerAnimator": "-1"
+}
+
+```
