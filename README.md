@@ -1,4 +1,5 @@
 # Roblox-FastFlags-hack
+##### Install Here: https://github.com/pizzaboxer/bloxstrap
 😈 Roblox Ghost Hack 😈
 
 #### Touch Events
